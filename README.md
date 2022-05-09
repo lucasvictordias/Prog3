@@ -1,2 +1,2 @@
 # Prog3
-Repositório para as atividades de Prog 2
+Repositório para as atividades de Prog 3
