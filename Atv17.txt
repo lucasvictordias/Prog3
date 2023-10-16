@@ -1,0 +1,3 @@
+Questão 17)
+
+Utilizaria o Set (HashSet). Alem de não permitir duplicados, ele possui um bom desempenho de inserção e busca.

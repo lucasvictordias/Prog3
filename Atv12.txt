@@ -1,0 +1,4 @@
+Questão 12)
+
+Porque o Set (Foi utilizado o HashSet), ele não armazena valores duplicados e como os valores 100 e 200 foram repetidos, eles não foram contados.
+Por consequencia, o tamanho total da coleção foi 6. 
